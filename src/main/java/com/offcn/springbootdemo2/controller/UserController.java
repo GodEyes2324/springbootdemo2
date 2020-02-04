@@ -63,5 +63,12 @@ public class UserController {
         return "redirect:/";
 
     }
+
+    /**
+     * 新增分支
+     */
+    public void fenzhi1(){
+        System.out.println("分支方法1");
+    }
 }
 
